@@ -10,7 +10,7 @@ public class OperadoresAritimeticos {
 		
 		
 		String nome; 
-		System.out.print("Digite seu nome:");
+		System.out.println("Digite seu nome:");
 		nome = sc.next();
 		System.out.println(nome);
 		
