@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Atividade2/src"/>
+	<classpathentry kind="src" path="Aula 02 - Variaveis/src"/>
+	<classpathentry kind="src" path="Aula1 Conceitos/src"/>
+	<classpathentry excluding="Variáveis/src/" kind="src" path="Aula2 Variáveis/src"/>
+	<classpathentry kind="src" path="Aula2 Variáveis/src/Variáveis/src"/>
+	<classpathentry kind="src" path="Aula3 Estruturas/Atividade1/src"/>
+	<classpathentry kind="src" path="Aula3 Estruturas/src"/>
+	<classpathentry kind="src" path="Aula5 - Introdução POO/src"/>
+	<classpathentry kind="src" path="Aula7 - Encapsulamento/src"/>
+	<classpathentry kind="output" path="Aula1 Conceitos/bin"/>
+</classpath>
